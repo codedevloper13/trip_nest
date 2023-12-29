@@ -14,7 +14,7 @@ const Header = () => {
 				<span className='flex space-x-2'>
 					<Link
 						to='/sign-in'
-						className='flex items-center text-blue-700 px-4 font-bold border bg-white border-border rounded hover:bg-gray-100 m-6'>
+						className='flex items-center text-blue-700 px-4 font-medium border bg-white border-border rounded hover:bg-gray-100 m-6'>
 						Sign In
 					</Link>
 				</span>
